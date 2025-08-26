@@ -1,0 +1,26 @@
+{
+    "name": "My Test Solana Token",          
+    "symbol": "MTST",             
+    "description": "A brief description of your token.", 
+    "seller_fee_basis_points": 0,       
+    "image": "https://raw.githubusercontent.com/SuouCai/Ancient-Coin-Token/refs/heads/main/coin.jpg",
+    "attributes": [
+      {
+        "trait_type": "category",
+        "value": "utility"
+      }
+    ],
+    "collection": {
+      "name": "My Collection",
+      "family": "My Family"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/SuouCai/Ancient-Coin-Token/refs/heads/main/coin.jpg",
+          "type": "image/jpeg"                                 
+        }
+      ],
+      "category": "image"
+    }
+  }
