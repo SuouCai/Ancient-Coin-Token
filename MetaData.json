@@ -1,0 +1,26 @@
+{
+    "name": "Ancient Coin Token",          
+    "symbol": "ACT",             
+    "description": "A token widely used for exchanging ancient coins.", 
+    "seller_fee_basis_points": 0,       
+    "image": "https://raw.githubusercontent.com/SuouCai/Ancient-Coin-Token/refs/heads/main/baterverse-act-icon.png",
+    "attributes": [
+      {
+        "trait_type": "category",
+        "value": "utility"
+      }
+    ],
+    "collection": {
+      "name": "Barterverse",
+      "family": "Coins"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/SuouCai/Ancient-Coin-Token/refs/heads/main/baterverse-act-icon.png",
+          "type": "image/png"                                 
+        }
+      ],
+      "category": "image"
+    }
+  }
